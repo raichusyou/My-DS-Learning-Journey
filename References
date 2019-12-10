@@ -1,0 +1,24 @@
+# Reference Links/Books:
+Personal list of links for learning Python, Computer Science, and Data Science
+
+## Data Science:
+### Statistics: 
+- [Cartoon Guide to Statistics](http://www.larrygonick.com/titles/science/the-cartoon-guide-to-statistics/)
+- [Khan Academy- Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+
+### Data Science Tools:
+#### Command Line:
+- [Data Science at the command line](https://www.datascienceatthecommandline.com/preface.html)
+- [Command-Line Options](http://www.catb.org/esr/writings/taoup/html/ch10s05.html)
+- [Command-Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/pdf/)
+#### Python:
+- [Automating the Boring Stuff (Projects)](https://automatetheboringstuff.com/chapter0/#calibre_link-1937) / [Youtube Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+- [Python Crash Course](https://ehmatthes.github.io/pcc/) / [Book](https://www.amazon.com/Python-Crash-Course-Project-Based-Introduction/dp/1593276036)
+- [Mining Social Media (Web scrapping)](http://socialdata.site/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+- [Learn Pandas](https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
+
+### Computer Science: 
+- [CS50: Harvard Intro to CS](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH)
+- [Intuitive guide to Data Structures & Algorithms](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?course=dsa)
