@@ -1,2 +1,5 @@
-# learning_links
-Personal list of links for learning Python &amp; Data Science
+# My Data Science Journey
+A place to document my projects, links, and monthly journal on steps taken to become a competent Data Scientist / Python Programmer
+
+
+
